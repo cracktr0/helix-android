@@ -4,6 +4,9 @@
 
 A large update: new features, many playback fixes, and a rebuilt app structure with tests.
 
+This is an unofficial test build from a fork of Helix for Android. It is not endorsed by or affiliated
+with the original developer at this time.
+
 **Installing:** this release is signed with a new key. If you have an earlier Helix build installed (an
 upstream release or a self-built debug build), uninstall it first, then install `helix-0.2.0.apk`.
 You'll need to sign in again.

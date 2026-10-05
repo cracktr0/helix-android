@@ -6,6 +6,8 @@ Helix for Android connects to an existing Helix server for music discovery, play
 
 > **Status:** Work in progress. The Android app is under active development and features may change.
 
+> **Fork notice:** This repository is an unofficial test fork of [Helix for Android](https://github.com/UnifiedKings/helix-android). It is not endorsed by or affiliated with the original developer at this time. Links in this README point to the original project.
+
 <p align="center">
   <img src="docs/media/player.png" width="320" alt="Helix for Android Now Playing">
 </p>
